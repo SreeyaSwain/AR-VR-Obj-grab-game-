@@ -27,4 +27,4 @@ This project is a basic virtual environment created in Unity, designed for VR in
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/SreeyaSwain/AR-VR-Obj-grab-game-.git
